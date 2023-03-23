@@ -1,6 +1,6 @@
 # Convolutional Neural Networks
 
-# by swseo
+# by swseo to kitec
 
 ## Table of contents
 
