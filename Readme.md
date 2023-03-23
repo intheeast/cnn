@@ -1,6 +1,6 @@
 # Convolutional Neural Networks
 
-
+# by swseo
 
 ## Table of contents
 
